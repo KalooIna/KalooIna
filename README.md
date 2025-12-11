@@ -16,7 +16,7 @@ I approach challenges methodically, enjoy experimenting with new approaches, and
 
 # 🚀 About my workflow : 
 
-Step 1 : Decide to “quickly test an idea” — fully aware that this is how every major detour of my life begins.<br>
+<u>Step 1 :</u> Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.<br>
 
 Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>
 This is the last moment of order before chaos arrives.<br>
