@@ -44,12 +44,12 @@ I consider it a good day when my code runs and I do not have to question my enti
 
 <table>
   <tr>
-    <td>📊 GitHub Stats :
+    <td>📊 GitHub Stats :<br>
 ![](https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </td>
-    <td>🔝 Top Contributed Repo
+    <td>🔝 Top Contributed Repo<br>
 ![](https://github-contributor-stats.vercel.app/api?username=KalooIna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</td>
   </tr>
 </table>
