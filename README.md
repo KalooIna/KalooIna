@@ -16,7 +16,7 @@ I approach challenges methodically, enjoy experimenting with new approaches, and
 
 # 🚀 About my workflow : 
 
-<u>Step 1 :</u> Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.<br>
+Step 1 : Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.<br>
 
 Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>
 This is the last moment of order before chaos arrives.<br>
@@ -42,6 +42,12 @@ Celebrate by immediately questioning what dark miracle made it suddenly work.<br
 Step 9 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>
 I consider it a good day when my code runs and I do not have to question my entire career path.<br>
 
+<table>
+  <tr>
+    <td>Column 1</td>
+    <td>Column 2</td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
