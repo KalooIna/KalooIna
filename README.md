@@ -42,14 +42,12 @@ Celebrate by immediately questioning what dark miracle made it suddenly work.<br
 Step 9 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>
 I consider it a good day when my code runs and I do not have to question my entire career path.<br>
 
-# 📊 GitHub Stats :<br>
+## 📊 GitHub Stats :<br>
 ![](https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-#🔝 Top Contributed Repo<br>
-![](https://github-contributor-stats.vercel.app/api?username=KalooIna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</td>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
