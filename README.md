@@ -1,9 +1,8 @@
 # 💫 About me :
 A technically curious learner focused on continuous improvement, with a passion for tackling complex problems in machine learning and AI. I enjoy exploring practical and optimized solutions across data and code, combining analytical thinking with creative problem-solving to uncover insights and build reliable systems. I approach challenges methodically, enjoy experimenting with new approaches, and strive to learn along the way.<br>
-📚 I’m currently working on : Turning chaotic datasets into slightly less chaotic datasets.<br>
+📚 I’m currently learning : State-of-the-art ML architectures, optimization strategies, and robust data engineering workflows.<br>
 🔭 I’m looking to collaborate on : Ambitious and well structured projects that involve analytical thinking, clean engineering practices, and measurable improvements.<br>
 🤝 I’m looking for help with : Remembering why I wrote certain lines of code in the first place.<br>
-🌱 I’m currently learning : State-of-the-art ML architectures, optimization strategies, and robust data engineering workflows.<br>
 💬 Ask me about : The moment I realized the computer was right and I was wrong …<br>
 ⚡ Fun fact : My code works perfectly ! Until someone looks at it … Then it behaves like a photon shying away from too much attention.<br>
 
