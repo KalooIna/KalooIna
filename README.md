@@ -27,9 +27,9 @@ Step 1 : Decide to “quickly test an idea”, fully aware that this is how ever
 </td><td valign="top" width="40%">
 
  <!-- DEVTO-BLOG-LIST:START -->
-- <img style="width: 33%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" />
-- <img style="width: 33%; height: 200px; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" />
-- <img style="width: 33%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+ <img style="width: 40%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" />
+ <img style="width: 40%; height: 200px; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" />
+ <img style="width: 40%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 <!-- DEVTO-BLOG-LIST:END -->
 
 </td></tr></table>
