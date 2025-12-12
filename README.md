@@ -1,10 +1,3 @@
-<div style = "
-    display : flex ;
-    align-items : center ;
-    font-size : 20px ;
-    height : 100px ;
-    background : linear-gradient(to right , #0000FF , #00FFFF) ;
-    color : white ;" >Hello world, I am Kaloo Ina !</div>
 # 💫 About me :
 <div align = "center">An eternal learner with a passion for tackling complex problems in machine learning and AI. I am a data scientist who is expanding expertise in advanced ML architectures. I approach challenges methodically, enjoy experimenting with new approaches, and strive to learn along the way.<br></div>
 🔭 Currently working on and open to collaborating on : Gen AI projects for research and experimentation.<br>
