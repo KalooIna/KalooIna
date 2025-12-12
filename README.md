@@ -18,8 +18,9 @@
     row2
   </tr>
 </table>
-<table>
-  <tr>
+
+<table style="width:100%">
+  <tr style="width:60%">
 Step 1 : Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.<br>
 
 Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>
@@ -46,7 +47,7 @@ Celebrate by immediately questioning what dark miracle made it suddenly work.<br
 Step 9 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>
 I consider it a good day when my code runs and I do not have to question my entire career path.<br>
   </tr>
-  <tr>
+  <tr style="width:40%">
 <div><img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /></div>
 <div><img style="height: auto; width: 40%;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /></div>
 <div><img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
