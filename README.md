@@ -12,6 +12,14 @@
 # 🚀 About my workflow : 
 <table>
   <tr>
+    row1
+  </tr>
+  <tr>
+    row2
+  </tr>
+</table>
+<table>
+  <tr>
 Step 1 : Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.<br>
 
 Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>
