@@ -40,9 +40,9 @@
 
 </td><td valign="top" width="40%">
  <!-- DEVTO-BLOG-LIST:START -->
- <img style="width: 100%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" /><br>
- <img style="width: 100%; height: 200px; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=true" /><br>
- <img style="width: 100%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+ <img style="width: 100%; height: auto; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" /><br>
+ <img style="width: 100%; height: auto; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=true" /><br>
+ <img style="width: 100%; height: auto; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 <!-- DEVTO-BLOG-LIST:END -->
 </td></tr></table>
 
