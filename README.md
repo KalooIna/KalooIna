@@ -1,12 +1,4 @@
-<h1 align="center" size="100px" >Hello World, I am Kaloo Ina</h1>
-<h1 align="center" style="
-  color : white ;
-  font-size : 40px ;
-  padding : 20px ;
-  background : linear-gradient(90deg , #1e90ff , #00bfff) ;
-  border-radius : 10px ;
-">Hello World , I am Kaloo Ina</h1>
-
+<h1 align="center" >Hello World, I am Kaloo Ina</h1>
 
 <h2 align="center">💫 About me</h2>
 <div align = "center">An eternal learner with a passion for tackling complex problems in machine learning and AI. I am a data scientist who is expanding expertise in advanced ML architectures. I approach challenges methodically, enjoy experimenting with new approaches, and strive to learn along the way.<br></div>
