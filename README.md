@@ -16,10 +16,9 @@
 
 </div>
 
-<h2 align="center">🚀 About my workflow</h2>
+<h2 align="center">🚀 My workflow & Github stats 📊</h2>
 
 <table><tr><td valign="top" width="60%">
-
 <!-- STEP-LIST:START -->
 - Step 1 : Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.
 - Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>This is the last moment of order before chaos arrives.
@@ -31,22 +30,13 @@
 - Step 8 : Achieve a model that finally behaves.<br>Celebrate by immediately questioning what dark miracle made it suddenly work.
 - Step 9 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>I consider it a good day when my code runs and I do not have to question my entire career path.
 <!-- STEP-LIST:END --> 
-
 </td><td valign="top" width="40%">
-
  <!-- DEVTO-BLOG-LIST:START -->
  <img style="width: 100%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /><br>
  <img style="width: 100%; height: 200px; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /><br>
  <img style="width: 100%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 <!-- DEVTO-BLOG-LIST:END -->
-
 </td></tr></table>
-
-Step 1 : Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.<br><br>Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>This is the last moment of order before chaos arrives.<br><br>Step 3 : Load the dataset with confidence.<br>Immediately discover three columns with 65% NAs, two cursed values, and something that statistically counts as a supernatural event.<br><br>Step 4 : Begin debugging.<br>My debugging strategy is simple : stare at the problem until it becomes scared and fixes itself.<br><br>Step 5 : Try to run the preprocessing pipeline.<br>I spend most of my time convincing computers to cooperate using logic, patience, and the occasional heavy sigh.<br><br>Step 6 : Train the first model.<br>It performs so badly that even the loss function hesitates to report the number out of embarrassment.<br><br>Step 7 : Fine-tune, refactor, tweak hyperparameters, rewrite half the codebase “just to test something”.<br>I specialize in turning “this should not happen” into “well, it works now … somehow”.<br><br>Step 8 : Achieve a model that finally behaves.<br>Celebrate by immediately questioning what dark miracle made it suddenly work.<br><br>Step 9 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>I consider it a good day when my code runs and I do not have to question my entire career path.<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div><img style="width: 33%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /><img style="width: 33%; height: 200px; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /><img style="width: 33%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center"><img style="align: center;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
