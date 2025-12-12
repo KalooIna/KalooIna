@@ -1,27 +1,11 @@
 <h1 align="center" size="100px" >Hello World, I am Kaloo Ina</h1>
-
-<p align="center">
-  <svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Title">
-    <defs>
-      <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0" stop-color="#1E90FF" />
-        <stop offset="1" stop-color="#00BFFF" />
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="1000" height="120" rx="10" fill="url(#grad)" />
-    <text
-      x="50%"
-      y="50%"
-      dominant-baseline="middle"
-      text-anchor="middle"
-      font-family="Arial, Helvetica, sans-serif"
-      font-size="40"
-      fill="#ffffff"
-    >
-      Title
-    </text>
-  </svg>
-</p>
+<h1 align="center" style="
+  color : white ;
+  font-size : 40px ;
+  padding : 20px ;
+  background : linear-gradient(90deg , #1e90ff , #00bfff) ;
+  border-radius : 10px ;
+">Hello World , I am Kaloo Ina</h1>
 
 
 <h2 align="center">💫 About me</h2>
