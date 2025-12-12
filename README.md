@@ -39,10 +39,14 @@ I consider it a good day when my code runs and I do not have to question my enti
 
 
 ## 📊 GitHub Stats :
-< div class = "container" >
-< img style = " height: auto; width: 55%; " class = "img" src = "![](https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false)" / >
-< img style = " height: auto; width: 40%; " class = "img" src = "![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" / >
-< / div >
+
+### GitHub Stats
+<div><img style="height: auto; width: 40%;" class="img" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /></div>
+
+### GitHub Languages
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
