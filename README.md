@@ -20,7 +20,7 @@ Step 1 : Decide to “quickly test an idea”, fully aware that this is how ever
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: stretch;" ><img style="width: 33%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /><img style="width: 33%; height: 200px; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /><img style="width: 33%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
+<div><img style="width: 33%; height: 120%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /><img style="width: 33%; height: 200px; object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /><img style="width: 33%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center"><img style="align: center;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
