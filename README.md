@@ -19,6 +19,7 @@
 <h2 align="center">🚀 My workflow & Github stats 📊</h2>
 
 <table><tr><td valign="top" width="60%">
+ 
 <!-- STEP-LIST:START -->
 - Step 1 : Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.
 - Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>This is the last moment of order before chaos arrives.
@@ -30,6 +31,7 @@
 - Step 8 : Achieve a model that finally behaves.<br>Celebrate by immediately questioning what dark miracle made it suddenly work.
 - Step 9 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>I consider it a good day when my code runs and I do not have to question my entire career path.
 <!-- STEP-LIST:END --> 
+
 </td><td valign="top" width="40%">
  <!-- DEVTO-BLOG-LIST:START -->
  <img style="width: 100%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /><br>
