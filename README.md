@@ -8,7 +8,6 @@
         <stop offset="1" stop-color="#00BFFF" />
       </linearGradient>
     </defs>
-
     <text
       x="50%"
       y="50%"
