@@ -23,7 +23,7 @@ Step 1 : Decide to “quickly test an idea”, fully aware that this is how ever
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div><img style="height: auto; width: 33%;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /></div><div><img style="height: auto; width: 33%;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /></div><div><img style="height: auto; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
+<div><img style="height: auto; width: 33%;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /><img style="height: auto; width: 33%;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /><img style="height: auto; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center"><img style="align: center;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
