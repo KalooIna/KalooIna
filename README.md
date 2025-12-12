@@ -28,8 +28,7 @@
 - Step 5 : Try to run the preprocessing pipeline.<br>I spend most of my time convincing computers to cooperate using logic, patience, and the occasional heavy sigh.
 - Step 6 : Train the first model.<br>It performs so badly that even the loss function hesitates to report the number out of embarrassment.
 - Step 7 : Fine-tune, refactor, tweak hyperparameters, rewrite half the codebase “just to test something”.<br>I specialize in turning “this should not happen” into “well, it works now … somehow”.
-- Step 8 : Achieve a model that finally behaves.<br>Celebrate by immediately questioning what dark miracle made it suddenly work.
-- Step 9 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>I consider it a good day when my code runs and I do not have to question my entire career path.
+- Step 8 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>I consider it a good day when my code runs and I do not have to question my entire career path.
 <!-- STEP-LIST:END --> 
 
 </td><td valign="top" width="40%">
