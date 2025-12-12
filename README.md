@@ -1,4 +1,28 @@
-<h1 style="font-size: 40px; background: linear-gradient(to right, #1E90FF, #00BFFF); text-align: center; font-size: 100px" >Hello World, I am Kaloo Ina</h1>
+<h1 align="center" size="100px" >Hello World, I am Kaloo Ina</h1>
+
+<p align="center">
+  <svg width="100%" height="96" viewBox="0 0 1000 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Title">
+    <defs>
+      <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0" stop-color="#1E90FF" />
+        <stop offset="1" stop-color="#00BFFF" />
+      </linearGradient>
+    </defs>
+
+    <text
+      x="50%"
+      y="50%"
+      dominant-baseline="middle"
+      text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="48"
+      fill="url(#grad)"
+    >
+      Hellow World
+    </text>
+  </svg>
+</p>
+
 <h2 align="center">💫 About me</h2>
 <div align = "center">An eternal learner with a passion for tackling complex problems in machine learning and AI. I am a data scientist who is expanding expertise in advanced ML architectures. I approach challenges methodically, enjoy experimenting with new approaches, and strive to learn along the way.<br></div>
 🔭 Currently working on and open to collaborating on : Gen AI projects for research and experimentation.<br>
