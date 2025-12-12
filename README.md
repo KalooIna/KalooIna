@@ -21,14 +21,14 @@
 <table><tr><td valign="top" width="60%">
  
 <!-- STEP-LIST:START -->
-- Step 1 : Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.
-- Step 2 : Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>This is the last moment of order before chaos arrives.
-- Step 3 : Load the dataset with confidence.<br>Immediately discover three columns with 65% NAs, two cursed values, and something that statistically counts as a supernatural event.
-- Step 4 : Begin debugging.<br>My debugging strategy is simple : stare at the problem until it becomes scared and fixes itself.
-- Step 5 : Try to run the preprocessing pipeline.<br>I spend most of my time convincing computers to cooperate using logic, patience, and the occasional heavy sigh.
-- Step 6 : Train the first model.<br>It performs so badly that even the loss function hesitates to report the number out of embarrassment.
-- Step 7 : Fine-tune, refactor, tweak hyperparameters, rewrite half the codebase “just to test something”.<br>I specialize in turning “this should not happen” into “well, it works now … somehow”.
-- Step 8 : Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>I consider it a good day when my code runs and I do not have to question my entire career path.
+- <ins>Step 1 :</ins> Decide to “quickly test an idea”, fully aware that this is how every major detour of my life begins.
+- <ins>Step 2 :</ins> Create a clean environment, a neat folder structure, and a beautifully organized plan.<br>*This is the last moment of order before chaos arrives.*
+- <ins>Step 3 :</ins> Load the dataset with confidence.<br>Immediately discover three columns with 65% NAs, two cursed values, and something that statistically counts as a supernatural event.
+- <ins>Step 4 :</ins> Begin debugging.<br>My debugging strategy is simple : stare at the problem until it becomes scared and fixes itself.
+- <ins>Step 5 :</ins> Try to run the preprocessing pipeline.<br>I spend most of my time convincing computers to cooperate using logic, patience, and the occasional heavy sigh.
+- <ins>Step 6 :</ins> Train the first model.<br>It performs so badly that even the loss function hesitates to report the number out of embarrassment.
+- <ins>Step 7 :</ins> Fine-tune, refactor, tweak hyperparameters, rewrite half the codebase “just to test something”.<br>I specialize in turning “this should not happen” into “well, it works now … somehow”.
+- <ins>Step 8 :</ins> Evaluate, write the README, clean up experiments, and pretend it was all smooth and intentional.<br>I consider it a good day when my code runs and I do not have to question my entire career path.
 <!-- STEP-LIST:END --> 
 
 </td><td valign="top" width="40%">
