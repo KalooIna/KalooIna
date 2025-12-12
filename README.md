@@ -40,14 +40,14 @@ I consider it a good day when my code runs and I do not have to question my enti
 
 ## 📊 GitHub Stats :
 
-<div><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /></div>
-<div><img style="height: auto; width: 60%;" class="img" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /></div>
-<div><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
+<div><img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /></div>
+<div><img style="height: auto; width: 50%;" src="https://nirzak-streak-stats.vercel.app/?user=KalooIna&theme=ambient_gradient&hide_border=false" /></div>
+<div><img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
 ![](https://github-readme-stats.vercel.app/api?username=KalooIna&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ## ✍️ Random Dev Quote :
-<div><img style="height: auto; width: 100%;" class="img" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
+<div><img style="align: center;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
